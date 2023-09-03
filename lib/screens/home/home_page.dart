@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                   Padding(
                     padding: const EdgeInsets.symmetric(
-                      horizontal: 16.0,
+                      horizontal: 17.0,
                       vertical: 8.0,
                     ),
                     child: Row(
